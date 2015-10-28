@@ -1,0 +1,23 @@
+name: TonyWild
+favicon: null
+layout_spectrum: 0.31194659625180066
+typography_spectrum: 0.05237980652600527
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5922011719085276
+  lightness: 0.5986513146199286
+  saturation: 0.8551615001633763
+  rhythmicContrast: 0.3329814274329692
+purpose: []
